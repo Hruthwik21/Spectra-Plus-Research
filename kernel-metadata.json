@@ -1,0 +1,16 @@
+{
+  "id": "amarnath10chinu/spectra-v2-resnet-110-cifar-100-research",
+  "title": "SPECTRA+ v2 - ResNet-110 CIFAR-100 Research",
+  "code_file": "spectra_plus_kaggle.py",
+  "language": "python",
+  "kernel_type": "script",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "machine_shape": "dGPU_T4_x2",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": [],
+  "model_sources": []
+}

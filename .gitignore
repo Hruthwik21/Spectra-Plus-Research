@@ -1,0 +1,16 @@
+﻿# Data / checkpoints
+data/
+checkpoints/
+*.pth
+*.tar.gz
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Misc
+*.log
+check_png.py
